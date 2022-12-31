@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  background-color: #111111;
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin: 0;
+}
+#root {
+  width: 100%;
+}
+
+.app .header {
+  text-align: center;
+  margin: 20px 0;
+}
+.app .header span {
+  color: #3aafa9;
+}
+.app .input-box {
+  text-align: center;
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+}
+.app .input-box input {
+  margin-right: 20px;
+  border: none;
+  outline: none;
+  background-color: #3aafa9;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  font-size: 18px;
+  width: 275px;
+}
+.app .input-box input::placeholder {
+  color: white;
+}
+.app .input-box img {
+  width: 50px;
+  cursor: pointer;
+}

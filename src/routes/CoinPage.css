@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+.coinPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("../images/cryptobg.jpg");
+  background-size: cover;
+}
+
+.coinPage .Coinbox {
+  width: 600px;
+  height: 700px;
+  padding: 0 70px;
+  border-radius: 20px;
+  background-color: rgb(0, 0, 0, 0.8);
+  text-align: center;
+}
+.coinPage h2{
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #3aafa9;
+  margin: 40px 0 20px;
+}
+.coinPage img {
+  width: 120px;
+  margin-bottom: 20px;
+}
+.coinPage .info {
+  display: flex;
+  align-items: center;
+}
+.coinPage .info .title {
+  width: 165px;
+  text-align: left;
+}
+.coinPage .info .text {
+  font-size: 19px;
+}
+.coinPage a {
+  margin: auto;
+  height: 30px;
+  width: 125px;
+  padding: 0px 10px 0px 10px;
+  background-color: #3aafa9;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
