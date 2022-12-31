@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-project3/static/css/main.911fd939.css",
+    "main.js": "/react-project3/static/js/main.552de0b5.js",
+    "static/media/cryptobg.jpg": "/react-project3/static/media/cryptobg.ebcf75b77c1c9a1ca528.jpg",
+    "static/media/refresh.png": "/react-project3/static/media/refresh.2393f92f46e326a6039f.png",
+    "index.html": "/react-project3/index.html",
+    "main.911fd939.css.map": "/react-project3/static/css/main.911fd939.css.map",
+    "main.552de0b5.js.map": "/react-project3/static/js/main.552de0b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.911fd939.css",
+    "static/js/main.552de0b5.js"
+  ]
+}
